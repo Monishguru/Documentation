@@ -12,6 +12,8 @@ To ensure a smooth learning experience, please ensure your computer meets the fo
 - **Storage**: At least 20GB of free space
 - **Internet Connection**: Stable internet connection for downloading software and accessing online resources
 
+ **NOTE**: Any modern day laptop or desktop should work fine. Above are just good to have minimum requirements. If you miss something, dont worry we can figure out a way
+
 ## Software to Install
 
 ### 1. Java Development Kit (JDK)
@@ -24,28 +26,10 @@ To ensure a smooth learning experience, please ensure your computer meets the fo
 - **Recommended IDE**: IntelliJ IDEA Community Edition
 - **Download Link**: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 
-Alternatively, you can use Eclipse IDE or Visual Studio Code.
-
-### 3. Spring Framework and Spring Boot
-
-- **Spring Initializr**: We will use [Spring Initializr](https://start.spring.io/) to generate Spring Boot projects. No installation needed, it's a web-based tool.
-
-### 4. Database Management System (DBMS)
-
-- **MySQL**: Download and install MySQL Community Server
-- **Download Link**: [MySQL](https://dev.mysql.com/downloads/mysql/)
-
-Alternatively, you can use PostgreSQL.
-
-### 5. Postman
+### 3. Postman
 
 - **Purpose**: API development and testing tool
 - **Download Link**: [Postman](https://www.postman.com/downloads/)
-
-### 6. Docker (Optional but recommended for Microservices)
-
-- **Purpose**: Containerization tool for running microservices
-- **Download Link**: [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ## Setup Instructions
 
@@ -68,12 +52,3 @@ Alternatively, you can use PostgreSQL.
 
 1. Download the IntelliJ IDEA installer.
 2. Run the installer and follow the on-screen instructions.
-
-### 3. Setting Up MySQL
-
-1. Download the MySQL installer.
-2. Run the installer and follow the on-screen instructions.
-3. Set a root password during installation.
-4. Verify the installation by opening the MySQL command line and typing:
-   ```sh
-   mysql -u root -p
