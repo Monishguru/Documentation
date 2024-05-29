@@ -35,18 +35,15 @@ To ensure a smooth learning experience, please ensure your computer meets the fo
 
 ### 1. Installing JDK
 
-1. Download the JDK installer from the provided link.
-2. Run the installer and follow the on-screen instructions.
-3. Set the `JAVA_HOME` environment variable:
+1. Downloaded the zip archive as mentioned in Point 1 under Software to Install heading, extract it to a desired location (e.g., C:\Program Files\Java\jdk-17).
+2. Set the `JAVA_HOME` environment variable:
+
    - **Windows**: 
-     1. Open `System Properties` > `Environment Variables`.
-     2. Add a new system variable `JAVA_HOME` with the path to your JDK installation directory.
-     3. Update the `Path` variable and add `%JAVA_HOME%\bin`.
-   - **macOS/Linux**: Add the following lines to your `.bash_profile`, `.bashrc`, or `.zshrc` file:
-     ```sh
-     export JAVA_HOME=/path/to/your/jdk
-     export PATH=$JAVA_HOME/bin:$PATH
-     ```
+     1. Right-click on This PC or Computer on the desktop or in File Explorer, and select Properties.
+     2. Click on Advanced system settings.
+     3. Click on the Environment Variables button.
+     4. Find the Path variable in the System variables section, and click Edit. Add the path to the bin directory of your JDK installation (e.g., C:\Program Files\Java\jdk-17\bin).
+     5. Open Command Prompt and run 'java -version'. You should see prompt stating Open JDK 17 is installed.
 
 ### 2. Installing IntelliJ IDEA
 
