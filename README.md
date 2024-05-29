@@ -18,8 +18,8 @@ To ensure a smooth learning experience, please ensure your computer meets the fo
 
 ### 1. Java Development Kit (JDK)
 
-- **Version**: JDK 11 or later
-- **Download Link**: [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or [OpenJDK](https://openjdk.java.net/install/)
+- **Version**: JDK 17
+- **Download Link**:  [OpenJDK](https://jdk.java.net/java-se-ri/17)
 
 ### 2. Integrated Development Environment (IDE)
 
