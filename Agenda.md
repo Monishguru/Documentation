@@ -29,4 +29,3 @@
 
 - **Instructor Name:** Monishguru Gunasekaran 
 - **Email:** monishguru@gmail.com
-- **Phone:** [Insert Phone Number]
