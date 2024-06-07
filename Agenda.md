@@ -15,7 +15,6 @@
 - **Introduction Session**
   - Get to know each other
     - Brief self-introductions by each participant
-    - Ice-breaking activities
   - Expectation out of these sessions
     - Discuss what each participant aims to learn
     - Identify specific areas of interest or concern
