@@ -3,7 +3,8 @@
 
 ## Meeting Details
 
-- **Meeting URL:** 
+- **Meeting URL:**
+  https://meet.google.com/kwv-apvn-jds
 - **Time:** 8.30 PM IST
 - **Location:**
 
