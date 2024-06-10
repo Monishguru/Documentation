@@ -4,7 +4,7 @@
 ## Meeting Details
 
 - **Meeting URL:**
-  https://meet.google.com/kwv-apvn-jds
+  https://meet.google.com/gbp-vedp-pue
 - **Time:** 8.30 PM IST
 - **Location:**
 
