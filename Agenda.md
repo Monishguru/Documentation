@@ -25,7 +25,7 @@
     - Resources and materials provided
     - Q&A session to clarify any doubts
    
-### Day 1
+### Day 2
 
 - **Java Architecture**
   - Java Compiler
