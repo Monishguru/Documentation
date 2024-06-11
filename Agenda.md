@@ -24,6 +24,19 @@
     - Key topics to be covered
     - Resources and materials provided
     - Q&A session to clarify any doubts
+   
+### Day 1
+
+- **Java Architecture**
+  - Java Compiler
+  - Java Virtual Machine
+  - Java Runtime Environment
+  - Java Development Kit
+- **Java Versions and Evolution**
+- **Introduction to Object Oriented Programming**
+- **Self Exercise**
+  - Set up JRE in your Machine
+  - Prove the installation of Java
 
 ## Contact Information
 
