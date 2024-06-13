@@ -33,12 +33,20 @@
   - Java Runtime Environment
   - Java Development Kit
 - **Java Versions and Evolution**
-- **Introduction to Object Oriented Programming**
+
 - **Self Exercise**
   - Set up JDK in your Machine
   - Prove the installation of Java
   - Explore the contents inside package and try to figure our javac, etc
   - Look in chatgpt for evloution of Java and its version
+  - 
+### Day 3
+
+- **Introduction to Object Oriented Programming**
+- **Recap of Java Architecture**
+- **Basic Construct of Java**
+
+- **Self Exercise**
 
 ## Contact Information
 
