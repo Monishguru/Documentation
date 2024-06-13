@@ -47,6 +47,8 @@
 - **Basic Construct of Java**
 
 - **Self Exercise**
+- IDE Set up
+- write a simple class and make it run with javac and java
 
 ## Contact Information
 
