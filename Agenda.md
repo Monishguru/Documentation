@@ -57,6 +57,9 @@
 - **Arithmetic Operators**
   
 - **Self Exercise**
+- Learn how to name variable, methods, class, packages
+- learn about the ranges of integer variables
+  
 
 ## Contact Information
 
