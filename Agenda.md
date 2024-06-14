@@ -50,6 +50,14 @@
 - IDE Set up
 - write a simple class and make it run with javac and java
 
+### Day 4
+
+- **Stack and Heap**
+- **Data Types**
+- **Arithmetic Operators**
+  
+- **Self Exercise**
+
 ## Contact Information
 
 - **Instructor Name:** Monishguru Gunasekaran 
