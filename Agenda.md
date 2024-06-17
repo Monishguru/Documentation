@@ -60,7 +60,9 @@
 - Learn how to name variable, methods, class, packages
 - learn about the ranges of integer variables
   
+### Day 5
 
+- Ensure all are able to run a java application and do something on their IDE
 ## Contact Information
 
 - **Instructor Name:** Monishguru Gunasekaran 
