@@ -63,6 +63,12 @@
 ### Day 5
 
 - Ensure all are able to run a java application and do something on their IDE
+- Naming style of class, variables,methods,packages
+- What is public and private in java means
+- Reserve Keywords
+- Sample program
+- String in which data type.Look how its different
+
 ## Contact Information
 
 - **Instructor Name:** Monishguru Gunasekaran 
