@@ -69,6 +69,15 @@
 - Sample program
 - String in which data type.Look how its different
 
+### Day 6
+
+- Typecasting and Coversion
+- Assignment Operators and Relational Operators
+- Ternary Operator
+- Access Modifiers
+- Static and Final
+- Constructors
+
 ## Contact Information
 
 - **Instructor Name:** Monishguru Gunasekaran 
