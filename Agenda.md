@@ -3,8 +3,9 @@
 
 ## Meeting Details
 
-- **Meeting URL:**
-  https://meet.google.com/gbp-vedp-pue
+- **Meeting URL:** 2 meeting invites,incase if the session if for two hours,join with invite 1 for 1st hour and invite 2 for 2nd hour
+  Invite 1: https://meet.google.com/gbp-vedp-pue
+  Invite 2:  https://meet.google.com/jgc-wzch-gpv
 - **Time:** 8.30 PM IST
 - **Location:**
 
