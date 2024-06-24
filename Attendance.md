@@ -2,21 +2,21 @@
 **Training Duration: 24.06.2024 to 24.07.2024**
 
 ## Students List
-1. S1
-2. S2
-3. S3
-4. S4
-5. S5
-6. S6
-7. S7
-8. S8
-9. S9
-10. S10
-11. S11
-12. S12
-13. S13
-14. S14
-15. S15
+1. Gowshik
+2. Mahesh
+3. Manju
+4. Savitha
+5. Surya
+6. Ashok
+7. Tukhin
+8. Naveen
+9. Kaviyarasan
+10. Sobiga
+11. Sangeetha
+12. Pavithran
+13. 
+14. 
+15. 
 
 ## Attendance Table
 
