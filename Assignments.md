@@ -7,7 +7,7 @@ To understand how classes and objects are created and how the `toString()` metho
 Create a class `Employee` with the following data members:
 - `empId`
 - `empName`
-- `ibu`
+- `businessUnit`
 - `projectCode`
 - `jobLevel`
 
@@ -15,10 +15,10 @@ The class should have the following member functions:
 - Getters and setters for all data members
 - Override the `toString()` method to print output in the following format:
   ```
-  Emp ID: 608534
-  Emp Name: Navin Israni
-  IBU: E&R
-  Project Code: JEE_PUN2
+  Emp ID: 4584247
+  Emp Name: Elon Musk
+  Business Unit : E&R
+  Project Code: JAVA_CBE
   Job Level: 3
   ```
 
@@ -35,11 +35,11 @@ Accept data for one object and display it.
 
 Problem Description: Modify the above program 2 to incorporate following restrictions:
 - The user need not enter all data while creating the object.
-- If “ibu” is not entered, the default value for ibu must be set to “BENCH” and
-the value for projectCode must be defaulted to “BENCH_Pune2”
-- If “ibu” is provided but “projectCode” is not entered, the value for
-projectCode must be defaulted to “BENCH_<ibu>_Pune2”. The <ibu> is to be
-replaced by the value of ibu.
+- If “businessUnit” is not entered, the default value for ibu must be set to “BENCH” and
+the value for projectCode must be defaulted to “BENCH_CBE2”
+- If “businessUnit” is provided but “projectCode” is not entered, the value for
+projectCode must be defaulted to “BENCH_<businessUnit>_CBE2”. The <businessUnit> is to be
+replaced by the value of businessUnit.
 
 # Assignment 3: Understanding Method Overriding
 ## Objective: Understanding Method Overriding.
