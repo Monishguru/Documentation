@@ -2,18 +2,18 @@
 **Training Duration: 24.06.2024 to 24.07.2024**
 
 ## Students List
-1. Gowshik
-2. Mahesh
-3. Manju
-4. Savitha
+1. Gowshik - Will no longer participate
+2. Mahesh 
+3. Manju 
+4. Savitha 
 5. Surya
-6. Ashok
+6. Ashok - May be shift timing
 7. Tukhin
-8. Naveen
-9. Kaviyarasan
-10. Sobiga
-11. Sangeetha
-12. Pavithran
+8. Naveen - May be work will impact
+9. Kaviyarasan - May be shift timing
+10. Sobiga - No longer joining
+11. Sangeetha 
+12. Pavithran -- No longer Joining
 13. 
 14. 
 15. 
